@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LengthCounter1
 {
     public class LengthHelper
-    {
+    { 
         public int findLength(string str)
         {
             return str.Length;
